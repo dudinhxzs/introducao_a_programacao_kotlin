@@ -1,1 +1,1 @@
-# introducao_a_programacao_kotlin
+## Código referente ao sexto exercício do curso.
