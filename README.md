@@ -1,1 +1,1 @@
-Código do exercício 01 #0969DA
+## Código referente ao primeiro exercício do curso.
